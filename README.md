@@ -10,4 +10,4 @@
 
 ## 参考资料
 
-[COSSIG 翻译入门](https://cossig.github.io/COSSIG-Translation/)
+[COSSIG 翻译指南](https://cossig.github.io/COSSIG-Translation/)

@@ -2,7 +2,7 @@
 [#]: via: "https://blog.centos.org/2022/04/centos-community-newsletter-april-2022/"
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "lkxed"
-[#]: translator: " "
+[#]: translator: "L-N1988"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "

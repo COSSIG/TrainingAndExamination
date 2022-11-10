@@ -2,7 +2,7 @@
 [#]: via: "https://blog.centos.org/2022/08/centos-automotive-sig-first-year-in-review/"
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "lkxed"
-[#]: translator: " "
+[#]: translator: "L-Cysteine"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "

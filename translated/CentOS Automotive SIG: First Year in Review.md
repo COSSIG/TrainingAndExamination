@@ -3,7 +3,7 @@
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "lkxed"
 [#]: translator: "L-Cysteine"
-[#]: reviewer: " "
+[#]: reviewer: "Phodopussungorus"
 [#]: publisher: " "
 [#]: url: " "
 
@@ -44,7 +44,7 @@ via: https://blog.centos.org/2022/08/centos-automotive-sig-first-year-in-review/
 作者：[CentOS Blog][a]
 选题：[lkxed][b]
 译者：[L-Cysteine](https://github.com/L-Cysteine)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[Phodopussungorus](https://github.com/Phodopussungorus)
 
 [a]: https://blog.centos.org
 [b]: https://github.com/lkxed

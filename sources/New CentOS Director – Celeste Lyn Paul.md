@@ -2,7 +2,7 @@
 [#]: via: "https://blog.centos.org/2022/02/new-centos-director-celeste-lyn-paul/"
 [#]: author: "CentOS Blog https://blog.centos.org"
 [#]: collector: "lkxed"
-[#]: translator: " "
+[#]: translator: "yjacks"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "
